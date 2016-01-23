@@ -1,0 +1,158 @@
+header,
+.services,
+.dolore-magna,
+.work {
+  padding: 0 10%;
+}
+.title-with-line {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 6%;
+}
+.title-with-line h2 {
+  padding: 4% 0 2% 0;
+}
+.under-title-line {
+  text-align: center;
+  width: 6%;
+}
+header {
+  background-image: url("../images/background-header.jpg");
+  background-size: cover;
+}
+header .top-line {
+  padding: 4% 0;
+}
+header .top-line nav {
+  float: right;
+}
+header .top-line nav ul,
+header .top-line nav ul li {
+  display: inline;
+  padding: 0 13px;
+}
+header .top-line nav a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+}
+header .top-line nav a:hover {
+  border-top: 2px solid #fff;
+  padding-top: 3px;
+}
+header .header-text {
+  text-align: center;
+  color: #fff;
+}
+header .header-text h1 {
+  text-transform: uppercase;
+  padding-top: 7%;
+}
+header .header-text p {
+  white-space: pre;
+  padding-bottom: 7%;
+}
+header .header-text img {
+  padding: 10% 0 3% 0;
+}
+.services {
+  margin-bottom: 4%;
+}
+.services .col-md-4 {
+  text-align: center;
+}
+.services .col-md-4 h3 {
+  padding: 3% 0;
+}
+.services .col-md-4 p {
+  white-space: pre;
+}
+.services .col-md-4 img {
+  height: 100px;
+}
+.dolore-magna {
+  background-image: url("../images/background-dolore.jpg");
+  background-size: cover;
+}
+.dolore-magna .row {
+  padding: 0;
+}
+.dolore-magna .row .dolore-text {
+  padding-top: 10%;
+  white-space: pre;
+  color: #fff;
+}
+.dolore-magna .row .dolore-text h1 {
+  text-transform: uppercase;
+}
+.dolore-magna .row .dolore-text p {
+  padding-top: 1%;
+}
+.dolore-magna .row a {
+  text-transform: lowercase;
+  text-decoration: underline;
+  color: #fff;
+}
+.dolore-magna #dolore-img {
+  padding-top: 10%;
+}
+.work img {
+  width: 32%;
+  -webkit-filter: brightness(80%);
+}
+.work img:hover {
+  -webkit-filter: brightness(150%);
+}
+.work #middle-img {
+  margin: 0 17px;
+}
+.work a {
+  display: inline-block;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000;
+  font-size: 2rem;
+  border: 2px solid #000;
+  padding: 1% 0;
+  width: 32%;
+  margin: 5% 34%;
+}
+.get-in-touch {
+  background-image: url("../images/background-get-in-touch.jpg");
+  text-align: center;
+  color: #fff;
+}
+.get-in-touch a {
+  padding: 1%;
+}
+.get-in-touch .contact-form {
+  padding: 4% 0;
+}
+.get-in-touch .contact-form input {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #b4b4b4;
+  font-style: italic;
+  padding-left: 10px;
+  margin: 0 2%;
+}
+.get-in-touch .contact-form #message-text-area {
+  background: none;
+  border: none;
+  border-bottom: 2px solid #b4b4b4;
+  font-style: italic;
+  width: 29%;
+  color: #b4b4b4;
+  padding-top: 5%;
+}
+.get-in-touch .contact-form .btn-default {
+  background: none;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 0;
+  border: 2px solid;
+  width: 7%;
+  margin-top: 2%;
+}

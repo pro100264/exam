@@ -1,0 +1,195 @@
+@form_color: #b4b4b4;
+
+header, .services, .dolore-magna, .work {
+  padding: 0 10%;
+}
+
+.title-with-line {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 6%;
+
+  h2 {
+    padding: 4% 0 2% 0;
+  }
+}
+
+.under-title-line {
+  text-align: center;
+  width: 6%;
+
+}
+
+header {
+  background-image: url("../images/background-header.jpg");
+  background-size: cover;
+
+  .top-line {
+    padding: 4% 0;
+
+    nav {
+      float: right;
+
+      ul, ul li {
+        display: inline;
+        padding: 0 13px;
+      }
+
+      a {
+        text-transform: uppercase;
+        text-decoration: none;
+        color: #fff;
+        font-size: 1.2rem;
+
+        &:hover {
+          border-top: 2px solid #fff;
+          padding-top: 3px;
+        }
+      }
+    }
+  }
+
+  .header-text {
+    text-align: center;
+    color: #fff;
+
+    h1 {
+      text-transform: uppercase;
+      padding-top: 7%;
+    }
+
+    p {
+      white-space: pre;
+      padding-bottom: 7%;
+    }
+
+    img {
+      padding: 10% 0 3% 0;
+    }
+  }
+}
+
+.services {
+margin-bottom: 4%;
+  .col-md-4 {
+    text-align: center;
+
+    h3 {
+      padding: 3% 0;
+    }
+    p {
+      white-space: pre;
+    }
+
+    img {
+      height: 100px;
+    }
+  }
+}
+
+.dolore-magna {
+  background-image: url("../images/background-dolore.jpg");
+  background-size: cover;
+  .row {
+    padding: 0;
+    .dolore-text {
+      padding-top: 10%;
+      white-space: pre;
+      color: #fff;
+
+      h1 {
+        text-transform: uppercase;
+      }
+
+      p {
+        padding-top: 1%;
+      }
+    }
+      a {
+        text-transform: lowercase;
+        text-decoration: underline;
+        color: #fff;
+
+      }
+
+    }
+    #dolore-img {
+padding-top: 10%;
+    }
+  }
+
+.work {
+
+
+  img {
+    width: 32%;
+    -webkit-filter: brightness(80%);
+
+    &:hover {
+      -webkit-filter: brightness(150%);
+
+    }
+  }
+
+  #middle-img {
+   margin: 0 17px;
+  }
+
+  a {
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000;
+    font-size: 2rem;
+    border: 2px solid #000;
+    padding: 1% 0;
+    width: 32%;
+    margin: 5% 34%;
+  }
+}
+
+.get-in-touch {
+  background-image: url("../images/background-get-in-touch.jpg");
+  text-align: center;
+  color: #fff;
+
+  a {
+    padding: 1%;
+  }
+
+ .contact-form {
+   padding: 4% 0;
+   input {
+     background: none;
+     border: none;
+     border-bottom: 2px solid @form_color;
+     font-style: italic;
+     padding-left: 10px;
+     margin: 0 2%;
+   }
+   #message-text-area {
+     background: none;
+     border: none;
+     border-bottom: 2px solid @form_color;
+     font-style: italic;
+     width: 29%;
+     color: @form_color;
+     padding-top: 5%;
+
+   }
+
+   .btn-default {
+     background: none;
+     color: #fff;
+     text-transform: uppercase;
+     border-radius: 0;
+     border: 2px solid;
+     width: 7%;
+     margin-top: 2%;
+   }
+ }
+}
+
+
+

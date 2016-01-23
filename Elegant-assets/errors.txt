@@ -1,0 +1,5 @@
+[Sat Jan 23 2016 12:42:32 GMT+0200 (Восточная Европа (зима))] layer "Right Arrow Circular Button. Attribute as Robin Kylander from Flaticon.com": Unsupported extension: com
+[Sat Jan 23 2016 12:42:32 GMT+0200 (Восточная Европа (зима))] layer "Link 1. Attribute as Freepik from Flaticon.com": Unsupported extension: com
+[Sat Jan 23 2016 12:42:32 GMT+0200 (Восточная Европа (зима))] layer "Responsive Design For Modern Screens. Attribute as Freepik from Flaticon.com": Unsupported extension: com
+[Sat Jan 23 2016 12:42:32 GMT+0200 (Восточная Европа (зима))] layer "Apple IPhone. Attribute as Freepik from Flaticon.com": Unsupported extension: com
+[Sat Jan 23 2016 12:42:32 GMT+0200 (Восточная Европа (зима))] layer "Verification Checkmark Symbol In Black Circular Button. Attribute as Sebastien Gabriel from Flaticon.com": Unsupported extension: com
